@@ -1,0 +1,16 @@
+*** Pictures found to be similar to C:\Users\sstepano\Documents\small_picture_set\small_picture_set\20mpix_boat.jpg ***
+
+ 0.624057 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\10mpix_building.jpg
+ 0.674419 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\2mpix_car2.jpg
+ 0.680091 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\5mpix_sunset.jpg
+ 0.680967 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\10mpix_sunset.jpg
+ 0.690049 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\5mpix_tree.jpg
+ 0.690939 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\0_5mpix_tree.jpg
+ 0.7005 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\2mpix_tree.jpg
+ 0.702487 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\5mpix_building.jpg
+ 0.709475 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\0_5mpix_boat.jpg
+ 0.711486 C:\Users\sstepano\Documents\small_picture_set\small_picture_set\20mpix_building.jpg
+
+*** Pictures found to be identical/close resemblance to C:\Users\sstepano\Documents\small_picture_set\small_picture_set\20mpix_boat.jpg ***
+
+
